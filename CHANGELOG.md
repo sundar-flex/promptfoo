@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.124.1](https://github.com/promptfoo/promptfoo/compare/0.124.0...0.124.1) (2026-10-07)
+
+
+### Bug Fixes
+
+* **assertions:** preserve async expression grading ([#11453](https://github.com/promptfoo/promptfoo/issues/11453)) ([1df3eb8](https://github.com/promptfoo/promptfoo/commit/1df3eb8e0bacad7efc64bce2bd3a7df0094a1d61))
+* **assertions:** preserve keyword-property grading ([#11450](https://github.com/promptfoo/promptfoo/issues/11450)) ([a2da804](https://github.com/promptfoo/promptfoo/commit/a2da804bcb09b05dbab58ce2db7429c59789e8a0))
+* **deps:** bump the npm_and_yarn group across 1 directory with 3 updates ([#11441](https://github.com/promptfoo/promptfoo/issues/11441)) ([84f7aaa](https://github.com/promptfoo/promptfoo/commit/84f7aaa858d445fb20102daa41b28d2b043658ab))
+* **deps:** patch Sharp and Codex SDK security vulnerabilities ([#11456](https://github.com/promptfoo/promptfoo/issues/11456)) ([0c78299](https://github.com/promptfoo/promptfoo/commit/0c7829916095bf274501b2b6438a0223d66b966e))
+* handle assertion comments and dataset limits ([#11435](https://github.com/promptfoo/promptfoo/issues/11435)) ([a65fe81](https://github.com/promptfoo/promptfoo/commit/a65fe81a676e906a304421e7af7423b435f8b882))
+* preserve Cloud errors and check npm aliases ([#11447](https://github.com/promptfoo/promptfoo/issues/11447)) ([8321730](https://github.com/promptfoo/promptfoo/commit/832173001f660cf15f5b59b250d52fd42ef72486))
+* **providers:** retain prepared custom environment ([#11442](https://github.com/promptfoo/promptfoo/issues/11442)) ([4415bcb](https://github.com/promptfoo/promptfoo/commit/4415bcb630155ffe40b31ec3feb038240ce33938))
+
 ## [0.124.0](https://github.com/promptfoo/promptfoo/compare/0.123.1...0.124.0) (2026-10-06)
 
 ### ⚠ BREAKING CHANGES
